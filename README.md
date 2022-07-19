@@ -23,6 +23,3 @@
   <img align="center" alt="DVA-MYSQL height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="DVA-GIT height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
-<div>
-<img alt="dva-battery" src="https://i.pinimg.com/originals/0e/1e/58/0e1e5820f61bdf82afa88d2bc5e53d37.gif">
-</div>
