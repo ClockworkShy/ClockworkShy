@@ -5,6 +5,7 @@
 - 💬 Pergunte alguma coisa sobre mim ?
 - 📫 Me contacte-me no Linkedin ou Email
 - ⚡ Fato Divertido: Eu gosto de Jogar, Eu sou Fictossexual ou Proculssexual!
+- 💕 D.VA is my Girlfriend!
 
 <div>
   <a href="https://github.com/pedrophalcadva">
