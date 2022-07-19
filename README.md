@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrophalcadva&show_icons=true&theme=dracula&include_all_commits=true&count_private="true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username?=pedrophalcadva&layout=compact&langs_count=16&theme=dracula"/>-->
 </div>
+<div style="display: inline_block"><br>
+  <img alt="d.va-battery" src"https://i.pinimg.com/originals/0e/1e/58/0e1e5820f61bdf82afa88d2bc5e53d37.gif">
+</div>
 
 <!--
 **pedrophalcadva/pedrophalcadva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
