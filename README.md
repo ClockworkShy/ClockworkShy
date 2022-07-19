@@ -8,8 +8,8 @@
 - ⚡ Fun fact: ...
 <div>
   <a href="https://github.com/pedrophalcadva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrophalcadva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophalcadva&layout=compact&langs_count=16&theme=tokyonight">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pedrophalcadva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophalcadva&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="d.va-battery" src="https://i.pinimg.com/originals/0e/1e/58/0e1e5820f61bdf82afa88d2bc5e53d37.gif">
