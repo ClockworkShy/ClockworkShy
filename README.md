@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Oi! Meu Pedro PH Alca D.VA 👋</h1>
+<h1 style="text-align:center">Oi! Meu Pedro PH Alca D.VA 👋</h1>
 
 <!--
 **pedrophalcadva/pedrophalcadva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
