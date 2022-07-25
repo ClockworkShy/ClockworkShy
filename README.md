@@ -27,6 +27,3 @@
   <img align="center" alt="DVA-MYSQL height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="DVA-GIT height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
-<!--<div>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophalcadva&layout=compact&langs_count=16&theme=tokyonight">
-</div>-->
