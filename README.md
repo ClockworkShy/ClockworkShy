@@ -15,5 +15,4 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="DVA-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  ![dva-battery1](https://user-images.githubusercontent.com/103332245/184712178-e9f2950b-4b9e-4463-b42f-50df45e2b161.gif)
 </div>
