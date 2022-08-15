@@ -15,5 +15,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="DVA-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" alt="DVA-Battery" height="100" width="100" src="https://cdn.discordapp.com/attachments/540250617764118548/1008829226708910211/dcc30nj-f7cfb6b8-a4ac-4591-99f6-9ca54ef3adcd.gif">
+  ![dva-battery1](https://user-images.githubusercontent.com/103332245/184712178-e9f2950b-4b9e-4463-b42f-50df45e2b161.gif)
 </div>
