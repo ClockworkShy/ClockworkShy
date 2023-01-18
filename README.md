@@ -1,6 +1,6 @@
 <h1>Oi! Eu Sou Pedro PH Alca D.VA 👋</h1>
 
-- 🔭 
+- 🔭 Eu procuro um estágio para 
 - 🌱 Atualmente eu estudo Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho! 
 - 💬 Pergunte qualquer coisa sobre mim ?
 - 📫 Me contacte-me no Linkedin ou Email
