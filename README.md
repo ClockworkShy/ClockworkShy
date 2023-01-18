@@ -1,8 +1,8 @@
 <h1>Oi! Eu Sou Pedro PH Alca D.VA 👋</h1>
 
-- 🔭 Eu estou a procura de estágio!
-- 🌱 Eu atualmente estou fazendo Tecnologia Análise e Desenvolvimento de Sistemas na Uninove!
-- 💬 Pergunte alguma coisa sobre mim ?
+- 🔭 
+- 🌱 
+- 💬 Pergunte qualquer coisa sobre mim ?
 - 📫 Me contacte-me no Linkedin ou Email
 - ⚡ Fato Divertido: Eu gosto de Jogar, Eu Sou Blink e Once (Eu Sou Fã de BlackPink e Twice)!
 - 💕 D.VA is my Girlfriend!
