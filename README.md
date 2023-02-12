@@ -6,12 +6,13 @@
 - 📫 Me contacte-me no Linkedin ou Email
 - ⚡ Fato Divertido: Eu amo de Jogar, Eu Sou Blink e Once (Eu Sou Fã de BlackPink e Twice)!
 - 💕 D.VA is my Girlfriend!
-<br>
+<hr></hr>
 <div>
   <a href="https://github.com/pedrophalcadva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrophalcadva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophalcadva&layout=compact&langs_count=16&theme=tokyonight">
 </div>
+<hr></hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="DVA-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
