@@ -1,4 +1,4 @@
-<h1>Oi! Eu Sou Pedro PH Alca D.VA 👋</h1>
+<h1>Oi! Eu Sou Pedro PH D.VA 👋</h1>
 
 - 🔭 Eu procuro um estágio para me especializar na área de TI!
 - 🌱 Atualmente eu estudo Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho! 
