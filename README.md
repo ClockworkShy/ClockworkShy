@@ -1,4 +1,4 @@
-<h4>👋 Olá! Sou Pedro Ph The D.VA, um estudante Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho em busca de me especializar na área de TI.</h4>
+<h4>👋 Olá! Sou Pedro, um estudante Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho em busca de me especializar na área de TI.</h4>
 
 - 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
 - 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em C#.
