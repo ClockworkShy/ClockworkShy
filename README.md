@@ -1,12 +1,12 @@
-<h4>👋 Olá! Sou Pedro, um estudante Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho em busca de me especializar na área de TI.</h4>
+<h4>👋 Olá! Sou Pedro</h4>
 
-- 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
-- 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em C#.
-- 💬 Estou aberto a qualquer pergunta sobre minha formação acadêmica, experiência anterior ou interesses profissionais. Sinta-se à vontade para entrar em contato comigo!
-- 📫 Me contacte-me no Email.
-- ⚡ Fato Divertido: Além de ser apaixonado por tecnologia, também sou um grande fã de Blackpink e Twice.
+- 🔭 Procurava uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
+- 🌱 Atualmente não estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em C#.
+- 💬 Estou não aberto a qualquer pergunta sobre minha formação acadêmica, experiência anterior ou interesses profissionais. Sinta-se à vontade para entrar em contato comigo!
+- 📫 Não Me contacte-me no Email.
+- ⚡ Fato Divertido: Além de não ser apaixonado por tecnologia, também sou um grande fã de Blackpink e Twice.
 - 💪 "Desafie-se a cada dia e nunca pare de aprender."
-<hr></hr>
+/*<hr></hr>
 <div style="display: inline_block">
   <img align="center" alt="DVA-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -25,4 +25,4 @@
   <a href="https://github.com/pedrophthedva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrophthedva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophthedva&layout=compact&langs_count=16&theme=tokyonight">
-</div>
+</div>*/
