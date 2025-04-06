@@ -6,9 +6,10 @@
 - 📫 Me contacte-me no Email.
 - ⚡ Fato Divertido: Além de ser apaixonado por tecnologia, Sou fã de BlackPink e Amo My Little Pony: Amizade é Mágica.
 - 💪 "Desafie-se a cada dia e nunca pare de aprender."
-<!--
+
 <hr></hr>
 <div style="display: inline_block">
+  <!--
   <img align="center" alt="DVA-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="DVA-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
