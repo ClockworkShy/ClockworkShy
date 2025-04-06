@@ -1,10 +1,10 @@
 <h4>👋 Olá! Sou Pedro</h4>
 
-- 🔭 Procurava uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
-- 🌱 Atualmente não estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em C#.
-- 💬 Estou não aberto a qualquer pergunta sobre minha formação acadêmica, experiência anterior ou interesses profissionais. Sinta-se à vontade para entrar em contato comigo!
-- 📫 Não Me contacte-me no Email.
-- ⚡ Fato Divertido: Além de não ser apaixonado por tecnologia, também sou um grande fã de Blackpink e Twice.
+- 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
+- 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em Python.
+- 💬 Estou aberto a qualquer pergunta sobre minha formação acadêmica, experiência anterior ou interesses profissionais. Sinta-se à vontade para entrar em contato comigo!
+- 📫 Me contacte-me no Email.
+- ⚡ Fato Divertido: Além de ser apaixonado por tecnologia, Sou fã de BlackPink e Amo My Little Pony: Amizade é Mágica.
 - 💪 "Desafie-se a cada dia e nunca pare de aprender."
 <!--
 <hr></hr>
@@ -21,10 +21,10 @@
   <img align="center" alt="DVA-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="DVA-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+-->
 <hr></hr>
 <div>
-  <a href="https://github.com/pedrophthedva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrophthedva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrophthedva&layout=compact&langs_count=16&theme=tokyonight">
+  <a href="https://github.com/PHTwishyPie">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PHTwishyPie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHTwishyPie&layout=compact&langs_count=16&theme=tokyonight">
 </div>
--->
