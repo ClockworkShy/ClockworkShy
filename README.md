@@ -1,4 +1,4 @@
-<h4>👋 Olá! Sou Pedro</h4>
+<h4>👋 Olá! Visitante o meu nome é Pedro</h4>
 
 - 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
 - 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em Python.
