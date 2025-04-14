@@ -1,4 +1,4 @@
-<h4>👋 Olá! Visitante o meu nome é Pedro</h4>
+<h4>👋 Olá Visitante! O meu nome é Pedro</h4>
 
 - 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
 - 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento web e programação em Python.
@@ -13,8 +13,9 @@
   <img align="center" alt="DVA-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="DVA-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="DVA-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="DVA-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="DVA-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="DVA-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> -->
+  <img align="center" alt="PHTwishyPie-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <!--
   <img align="center" alt="DVA-CS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="DVA-DART" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   -->
