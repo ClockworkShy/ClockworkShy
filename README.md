@@ -1,5 +1,3 @@
-<img align="right" src="https://wallpaperaccess.com/full/2013598.png" width="50%" />
-
 <h4>👋 Olá Visitante! O meu nome é Pedro</h4>
 
 - 🔭 Procuro uma oportunidade de emprego onde posso aplicar e expandir meus conhecimentos em desenvolvimento de software, solução de problemas e trabalho em equipe.
