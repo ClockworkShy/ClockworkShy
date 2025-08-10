@@ -18,7 +18,7 @@
 - Tenho espírito criativo, gosto de pensar fora da caixa.
 - Acredito que Amizade é Mágica, até mesmo no código!
 <div style="display: inline_block">
-<img align="right" height="750" width="350" src="https://i.imgur.com/MDHbPEO.png">
+<img align="right" height="550" width="300" src="https://i.imgur.com/MDHbPEO.png">
 </div>
 <hr></hr>
 <div style="display: inline_block">
@@ -34,6 +34,6 @@
 <hr></hr>
   <div>
   <a href="https://github.com/ClockworkShy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ClockworkShy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockworkShy&layout=compact&langs_count=16&theme=tokyonight">
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=ClockworkShy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockworkShy&layout=compact&langs_count=16&theme=tokyonight">
 </div>
