@@ -14,7 +14,7 @@
 
 ### 🧩 Curiosidades sobre mim:
 <div style="display: inline_block">
-<img align="right" height="600" width="300" src="https://i.imgur.com/MDHbPEO.png">
+<img align="right" height="500" width="250" src="https://i.imgur.com/MDHbPEO.png">
 </div>
 
 - Sou autista e amo , especialmente Fluttershy e Twilight!
