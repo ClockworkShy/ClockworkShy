@@ -17,7 +17,7 @@
 - Sou autista e amo , especialmente Fluttershy e Twilight!
 - Tenho espírito criativo, gosto de pensar fora da caixa.
 - Acredito que Amizade é Mágica, até mesmo no código!
-<hr></hr>
+<hr>
 <div style="display: inline_block">
 <img align="center" alt="ClockworkShy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="ClockworkShy-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -28,7 +28,7 @@
 <img align="center" alt="ClockworkShy-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="center" alt="ClockworkShy-GIT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-<hr></hr>
+</hr>
   <div>
   <a href="https://github.com/ClockworkShy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ClockworkShy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private="true"/>
