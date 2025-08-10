@@ -13,14 +13,13 @@
 - Estruturas de Dados & Git
 
 ### 🧩 Curiosidades sobre mim:
-<div style="display: inline_block">
-<img align="right" height="300" width="150" src="https://i.imgur.com/MDHbPEO.png">
-</div>
 
 - Sou autista e amo , especialmente Fluttershy e Twilight!
 - Tenho espírito criativo, gosto de pensar fora da caixa.
 - Acredito que Amizade é Mágica, até mesmo no código!
-
+<div style="display: inline_block">
+<img align="right" height="600" width="300" src="https://i.imgur.com/MDHbPEO.png">
+</div>
 <hr></hr>
 <div style="display: inline_block">
 <img align="center" alt="ClockworkShy-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
