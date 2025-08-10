@@ -1,7 +1,7 @@
 # 💜 Seja bem-vindo(a) ao meu espaço mágico de código!
 
 <div style="display: inline_block">
-<img align="right" height="450" width="450" src="https://i.imgur.com/9OHgMd9.png">
+<img align="right" height="400" width="400" src="https://i.imgur.com/9OHgMd9.png">
 </div>
 
 🦄 Meu nome é Pedro e sou um desenvolvedor autodidata formado em Análise e Desenvolvimento de Sistemas pela Uninove apaixonado por conhecimento, tecnologia e pelo universo de My Little Pony.
