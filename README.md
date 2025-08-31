@@ -4,7 +4,7 @@
 </div>
 
 🦄 Meu nome é Pedro e sou um desenvolvedor autodidata formado em Análise e Desenvolvimento de Sistemas pela Uninove apaixonado por conhecimento, tecnologia.
-<img align="right"  height="500" width="500" src="https://imgur.com/QQPfg3o">
+
 🧠 Atualmente estudando:
 - Desenvolvimento Web
 - Python e Lógica de Programação
