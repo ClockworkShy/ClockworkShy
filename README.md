@@ -1,11 +1,8 @@
-# 💜 Seja bem-vindo(a) ao meu espaço mágico de código!
+# 💜 Seja bem-vindo(a) ao meu espaço de código!
 
 <div style="display: inline_block">
-<img align="right" height="300" width="300" src="https://i.imgur.com/9OHgMd9.png">
 </div>
-🦄 Meu nome é Pedro e sou um desenvolvedor autodidata formado em Análise e Desenvolvimento de Sistemas pela Uninove apaixonado por conhecimento, tecnologia e pelo universo de My Little Pony.
-
-✨ Inspiração: Twilight Sparkle! Assim como ela, amo estudar, organizar ideias e usar a magia da lógica para resolver problemas com criatividade.
+🦄 Meu nome é Pedro e sou um desenvolvedor autodidata formado em Análise e Desenvolvimento de Sistemas pela Uninove apaixonado por conhecimento, tecnologia.
 
 🧠 Atualmente estudando:
 - Desenvolvimento Web
@@ -14,11 +11,11 @@
 
 ### 🧩 Curiosidades sobre mim:
 
-- Sou autista e amo , especialmente Fluttershy e Twilight!
+- Amo, especialmente Blackpink e Twice!
 - Tenho espírito criativo, gosto de pensar fora da caixa.
-- Acredito que Amizade é Mágica, até mesmo no código!
+
 <div style="display: inline_block">
-<img align="right" height="600" width="300" src="https://i.imgur.com/MDHbPEO.png">
+
 </div>
 <hr></hr>
 <div style="display: inline_block">
